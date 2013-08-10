@@ -6,7 +6,7 @@ require 'gosu'
 # Cleaned these up a little bit.
 require 'core'
 require 'shot'
-require 'paralax'
+require 'parallax'
 require 'hud'
 require 'player'
 require 'enemy'

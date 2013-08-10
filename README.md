@@ -2,7 +2,7 @@
 
   I have not changed the original game at all.
 
-  The only thing I have done is to move the files around a little and put some of them into a folder called 'rb'. I also renamed bg.rb to paralax.rb.
+  The only thing I have done is to move the files around a little and put some of them into a folder called 'rb'. I also renamed 'bg.rb' to 'parallax.rb'.
 
   And I also changed the .TTF files to .ttf for case-sensitivity purposes.
 
